@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Header from './components/header.jsx';
-import Footer from './components/footer.jsx';
 import Home from './pages/home.jsx';
 
 export default function App() {
