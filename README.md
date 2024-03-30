@@ -1,2 +1,2 @@
-# Cinema-Ticket-Booking-System
+# Cinema Ticket Booking System
 react 
