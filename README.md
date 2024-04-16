@@ -1,2 +1,2 @@
 # Cinema Ticket Booking System 
-<h1></h1>
+<h2>This is a cinema ticket booking website</h2>
