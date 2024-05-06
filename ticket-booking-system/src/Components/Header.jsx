@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const Header = () => {
  
   return (
-    <nav class="bg-gray-300 border-gray-500 dark:bg-gray-900">
+    <nav class="bg-cyan-600 border-gray-500 dark:bg-gray-900">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
         
