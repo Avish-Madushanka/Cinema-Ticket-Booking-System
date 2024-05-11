@@ -79,16 +79,17 @@ const Home = () => {
     <svg class="pointer-events-none absolute inset-x-0 bottom-5 mx-auto text-3xl text-white  transition-opacity group-hover:animate-ping group-hover:opacity-30 peer-hover:opacity-0" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M2 10a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4v10a4 4 0 0 1-2.328 3.635a2.996 2.996 0 0 0-.55-.756l-8-8A3 3 0 0 0 14 17v7H6a4 4 0 0 1-4-4V10Zm14 19a1 1 0 0 0 1.8.6l2.7-3.6H25a1 1 0 0 0 .707-1.707l-8-8A1 1 0 0 0 16 17v12Z" /></svg>
      <span class="absolute top-0 left-0 m-2 rounded-full bg-black px-2 text-center text-sm font-medium text-white">39% OFF</span>
   </a>
-  <div class="mt-4 px-5 pb-5">
+  <div class="mt-4 px-5 pb-5 flex items-center justify-between">
+      <p>
+        <span class="text-3xl font-bold text-slate-900">$449</span>
+       
+      </p>
+    </div>
+  <div class="px-5 pb-5">
     <a href="#">
       <h5 class="text-xl tracking-tight text-slate-900">Nike Air MX Super 2500 - Red</h5>
     </a>
-    <div class="mt-2 mb-5 flex items-center justify-between">
-      <p>
-        <span class="text-3xl font-bold text-slate-900">$449</span>
-        <span class="text-sm text-slate-900 line-through">$699</span>
-      </p>
-    </div>
+   
     <div class="mt-2.5 mb-5 flex items-center">
       <span class="mr-2 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
       <svg aria-hidden="true" class="h-5 w-5 text-yellow-300" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
